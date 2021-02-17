@@ -1,3 +1,3 @@
 # python-stuff
 
-Some java stuff done for practice or as homework.
+Some python stuff done for practice or as homework.
